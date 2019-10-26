@@ -1,0 +1,17 @@
+E:\AppBarber\AppBarber\AppBarber\bin\Debug\AppBarber.exe.config
+E:\AppBarber\AppBarber\AppBarber\bin\Debug\AppBarber.exe
+E:\AppBarber\AppBarber\AppBarber\bin\Debug\AppBarber.pdb
+E:\AppBarber\AppBarber\AppBarber\bin\Debug\MySql.Data.dll
+E:\AppBarber\AppBarber\AppBarber\bin\Debug\Google.Protobuf.dll
+E:\AppBarber\AppBarber\AppBarber\bin\Debug\BouncyCastle.Crypto.dll
+E:\AppBarber\AppBarber\AppBarber\bin\Debug\Renci.SshNet.dll
+E:\AppBarber\AppBarber\AppBarber\obj\Debug\AppBarber.csprojAssemblyReference.cache
+E:\AppBarber\AppBarber\AppBarber\obj\Debug\AppBarber.Properties.Resources.resources
+E:\AppBarber\AppBarber\AppBarber\obj\Debug\AppBarber.csproj.GenerateResource.cache
+E:\AppBarber\AppBarber\AppBarber\obj\Debug\AppBarber.csproj.CoreCompileInputs.cache
+E:\AppBarber\AppBarber\AppBarber\obj\Debug\AppBarber.csproj.CopyComplete
+E:\AppBarber\AppBarber\AppBarber\obj\Debug\AppBarber.exe
+E:\AppBarber\AppBarber\AppBarber\obj\Debug\AppBarber.pdb
+E:\AppBarber\AppBarber\AppBarber\obj\Debug\AppBarber.Login.resources
+E:\AppBarber\AppBarber\AppBarber\obj\Debug\AppBarber.Menu.resources
+E:\AppBarber\AppBarber\AppBarber\obj\Debug\AppBarber.Usuarios.resources
